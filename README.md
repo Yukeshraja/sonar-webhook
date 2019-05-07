@@ -1,1 +1,1 @@
-Jenkins Trigger Jobs
+Trigger Jobs
