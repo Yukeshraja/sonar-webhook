@@ -1,7 +1,6 @@
 pipeline {
-    agent {
-        label 'linux'
-    }
+    agent any
+    
     tools {
         maven 'maven-3.0.3' 
     }
